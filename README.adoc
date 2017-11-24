@@ -6,4 +6,4 @@ This repository holds documents for openKex.
 
 This document will give a brief introduction to Open Key Exchange (abbreviated as "openKex").
 
-intro.pdf: https://raw.githubusercontent.com/openKex/master/docs/pdf/intro.pdf
+intro.pdf: https://github.com/openkex/docs/raw/master/pdf/intro.pdf
